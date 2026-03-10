@@ -1,4 +1,4 @@
-"Filed out from Dolphin Smalltalk"!
+﻿"Filed out from Dolphin Smalltalk"!
 
 Object subclass: #Juego
 	instanceVariableNames: 'titulo consumoRam genero id peso plataforma'
